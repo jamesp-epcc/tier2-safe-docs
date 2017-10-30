@@ -13,6 +13,9 @@ SAFE: Registering, logging in, passwords
 How to register on SAFE
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+If you are already registered on the ARCHER SAFE the same login credentials
+will also work on the Tier-2 SAFE and you don't need to re-register. 
+
 #. Go to the SAFE `New User Signup
    Form <https://www.archer.ac.uk/tier2/signup.jsp>`__
 #. Fill in your personal details. You can come back later and change
@@ -36,6 +39,22 @@ How to login to SAFE and Overview of Main Page
 #. Click "Login"
 #. You are now on the Main Page and here you can see Menus along the top
    which give access to SAFE functionality
+
+How to register an Institutional Login
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Once you have a SAFE account you can link it to your normal university
+Institutional web-login. 
+
+`Go to the SAFE <https://www.archer.ac.uk/tier2/>`__
+
+#. Select "Register Institutional ID" from the "Your details" menu
+#. Select your home institution
+#. Login to your home institution if redirected to their login page.
+
+This will allow you to use the "Institutional Login" button when logging in
+to the SAFE.
+
 
 How to change your personal details on SAFE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
