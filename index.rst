@@ -1,52 +1,43 @@
 .. include:: header.rst
    
-Tier-2 SAFE Documentation
+Cirrus SAFE Documentation
 =========================
 
 This is the documentation for the SAFE service management web interface provided
-by `EPCC <http://www.epcc.ed.ac.uk>`_ for the EPSRC Tier 2 HPC facilities.
+by `EPCC <http://www.epcc.ed.ac.uk>`_ for the `Cirrus facility <https://www.cirrus.ac.uk>`_. The Cirrus SAFE service provides a web-based interface for managing 
+access and resources on Cirrus.
 
-The Tier-2 HPC facilities currently integrated into the SAFE service are:
+To log into Cirrus SAFE please go to:
 
-* `Cirrus <http://www.cirrus.ac.uk>`__ from `EPCC <http://www.epcc.ed.ac.uk>`__
-* Athena from `HPC Midlands+ <http://www.hpc-midlands-plus.ac.uk>`__
-* `Isambard <http://gw4.ac.uk/isambard/>`__ from `GW4 <http://gw4.ac.uk/>`__
+* `Cirrus SAFE Login <https://www.archer.ac.uk/cirrus/>`_
 
-The Tier-2 SAFE service provides a common, web-based interface for managing 
-access and resources across the Tier-2 HPC services and allows for coherent 
-reporting from Tier-2 facilities.
-
-To log into Tier-2 SAFE please go to:
-
-* `Tier-2 SAFE Login <https://www.archer.ac.uk/tier2/>`_
-
-Tier-2 SAFE Overview
+Cirrus SAFE Overview
 --------------------
 
 The SAFE is a web-based application that is used for:
 
-* Administering user accounts and projects on the various Tier-2 HPC facilities
-* Reporting on usage of the various Tier-2 facilities
+* Administering user accounts and projects on Cirrus
+* Reporting on usage of the Cirrus service
 
-Tier-2 SAFE for individual users
+Cirrus SAFE for individual users
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-All users on any of the integrated Tier-2 users have accounts on the Tier-2
+All users on Cirrus have accounts on the Cirrus
 SAFE through which they can view the resources they have access to, administer
-their accounts on the various Tier-2 facilities and query their usage of 
-the various Tier-2 facilities.
+their login accounts on Cirrus and query their usage of 
+the various Cirrus resources.
 
 .. toctree::
    :maxdepth: 2
 
    safe-guide-users
 
-Tier-2 SAFE for project leaders
+Cirrus SAFE for project leaders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Project leaders (PI's and any designated project managers) can also
 use the SAFE to approve requests to join the project from individual
-users and generate reports on the project usage on the Tier-2 facilities
+users and generate reports on the project usage on the Cirrus facilities
 the project has access to.
 
 .. toctree::

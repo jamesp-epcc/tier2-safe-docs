@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Tier-2 SAFE  documentation build configuration file, created by
+# Cirrus SAFE  documentation build configuration file, created by
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tier-2 SAFE Documentation'
+project = u'Cirrus SAFE Documentation'
 copyright = u'2017, EPCC'
 author = u'EPCC'
 

@@ -14,22 +14,22 @@ Here are some of the things you should consider doing; not all of them
 will be needed for every project.
 
 #. Change your own SAFE password
-#. Set up an account on appropriate Tier-2 facilities for yourself
+#. Set up an account on Cirrus for yourself
 #. Make sure other project users get registered
 #. Designate one or more users as managers of your project
 
 How to get your own account on the service machine
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you are not going to work on the Tier-2 systems yourself, you do not need to
+If you are not going to work on Cirrus yourself, you do not need to
 do this. You can administer your project through SAFE alone. But if you
-want an account on a Tier-2 system follow the procedure described in
+want an account on the Cirrus system follow the procedure described in
 :doc:`safe-guide-users`.
 
 Viewing your allocated resources
 --------------------------------
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. From the Projects managed' menu select the project you want
    to see the resources for.
@@ -42,9 +42,9 @@ Managing Project Users
 How can project users get registered?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You must not apply for Tier-2 facility accounts on behalf of other users, or let
+You must not apply for Cirrus facility accounts on behalf of other users, or let
 others use accounts that belong to you. Account sharing is strictly
-forbidden on Tier-2 facilities. Every user must register on
+forbidden on Cirrus. Every user must register on
 SAFE and then apply for their own machine account.
 
 In order to get an account, a potential user needs to know your project
@@ -52,13 +52,13 @@ code. This is included in the email which SAFE sends to you, as PI, when
 your project is set up.
 
 Give potential users your project code and then ask them to register
-on SAFE and request a Tier-2 system account using the instructions at :doc:`safe-guide-users`.
+on SAFE and request a Cirrus system account using the instructions at :doc:`safe-guide-users`.
 
 When a user requests an account in your project then you will receive a 
 mail from SAFE asking you to login to approve or reject this request.
 To do this:
 
-#. `Login to SAFE <https://www.archer.ac.uk/tier2/>`__.
+#. `Login to SAFE <https://www.archer.ac.uk/cirrus/>`__.
 #. You should see the menu *Projects managed* is highlighted orange,
    then this indicates that there is a request for project membership.
    Now you have to accept (or reject) each user's request.
@@ -75,7 +75,7 @@ that they are who they say they are. Please check their nationality as
 well: it's your responsibility to make sure this is right.
 
 When you accept a user, an automatic request is generated to
-create the account on the appropriate Tier-2 system. When this has been done, the
+create the account on the Cirrus system. When this has been done, the
 user is emailed; allow a working day for this. The user can then login
 to SAFE and pick up their initial password for the facility account.
 
@@ -87,7 +87,7 @@ except designate another project manager. You can designate as many
 project managers as you wish.
 
 #. Make sure the user has an account in your project.
-#. `Login to SAFE <https://www.archer.ac.uk/tier2/>`__.
+#. `Login to SAFE <https://www.archer.ac.uk/cirrus/>`__.
 #. Go to the Menu *Projects managed* and select the *project* you wish
    to appoint a project manager for. This will display a screen with a
    variety of options for managing the project.
@@ -112,8 +112,7 @@ Login to SAFE. Then:
    with how much of is in use.
 
 If a project group's use of a quota is getting close to the maximum, it
-is highlighted in pink. Note that not all Tier-2 facilities manage disk quotas
-through the SAFE so this functionality may not be available for your project.
+is highlighted in pink.
 
 The budget values displayed are updated every morning, and the values
 shown for disk use are updated four times a day. For this reason, these

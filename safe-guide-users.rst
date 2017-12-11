@@ -1,11 +1,11 @@
 SAFE for Individual Users
 =========================
 
-`SAFE <https://www.archer.ac.uk/tier2/>`__ is an online user
+`SAFE <https://www.archer.ac.uk/cirrus/>`__ is an online user
 service management system. Through SAFE, individual users can request
 machine accounts, reset passwords, see available resources and track
 their usage. All users must be registered on SAFE before they can apply
-for an account on the various Tier-2 facilities.
+for an account on the Cirrus facility.
 
 SAFE: Registering, logging in, passwords
 ----------------------------------------
@@ -13,11 +13,11 @@ SAFE: Registering, logging in, passwords
 How to register on SAFE
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-If you are already registered on the ARCHER SAFE the same login credentials
-will also work on the Tier-2 SAFE and you don't need to re-register. 
+If you are already registered on the ARCHER or Tier-2 SAFE the same login
+credentials will also work on the Cirrus SAFE and you don't need to re-register. 
 
 #. Go to the SAFE `New User Signup
-   Form <https://www.archer.ac.uk/tier2/signup.jsp>`__
+   Form <https://www.archer.ac.uk/cirrus/signup.jsp>`__
 #. Fill in your personal details. You can come back later and change
    them if you wish
 #. Click "Submit"
@@ -26,13 +26,13 @@ will also work on the Tier-2 SAFE and you don't need to re-register.
    your password.
 
 At this point your account is registered on the SAFE but you do not
-have a user account on any of the Tier-2 systems. To obtain a machine account on
-the Tier-2 HPC facilities please follow the instructions below.
+have a user account on the Cirrus system. To obtain a machine account on
+Cirrus please follow the instructions below.
 
 How to login to SAFE and Overview of Main Page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Go to the SAFE <https://www.archer.ac.uk/tier2/>`__
+`Go to the SAFE <https://www.archer.ac.uk/cirrus/>`__
 
 #. Type in the email address you have registered with
 #. Type in your SAFE password
@@ -46,7 +46,7 @@ How to register an Institutional Login
 Once you have a SAFE account you can link it to your normal university
 Institutional web-login. 
 
-`Go to the SAFE <https://www.archer.ac.uk/tier2/>`__
+`Go to the SAFE <https://www.archer.ac.uk/cirrus/>`__
 
 #. Select "Register Institutional ID" from the "Your details" menu
 #. Select your home institution
@@ -59,7 +59,7 @@ to the SAFE.
 How to change your personal details on SAFE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Your details* and select *Update personal details*
 #. Make the changes you wish
@@ -74,7 +74,7 @@ you must type them again.
 How to change your email address on SAFE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Your details* and select *Update email*
 #. Enter the new email address and click *Request*
@@ -87,7 +87,7 @@ use the new email address when logging into SAFE
 How to change your SAFE password
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Your details* and select *Change SAFE password*
 #. Fill in the boxes and click *Change*
@@ -95,7 +95,7 @@ How to change your SAFE password
 How to reset your SAFE password
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Enter your email address
 #. Click *Email*
@@ -111,12 +111,12 @@ should certainly use the link to login and set a new password.
 How to add an SSH key to your SAFE account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Some of the Tier-2 facilities may require you to register an SSH key in the SAFE
+Some facilities may require you to register an SSH key in the SAFE
 before you can request an account on the system. To do this you will
 require a SSH key pair. You upload the *public part* of the key pair
 to your SAFE account as follows:
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Your details* and select *Update personal details*
 #. Either copy and paste the public part of your SSH key into the
@@ -130,14 +130,12 @@ Do not forget the last step, or nothing will happen.
 How to request access to a Package Group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Some software which is installed on Tier-2 systems can only be accessed once the user's
+Some software which is installed on Cirrus can only be accessed once the user's
 licence has been confirmed.
-
-**Note:** Package Groups are only currently available on `Cirrus <http://www.cirrus.ac.uk>`__.
 
 For some of these packages, such as VASP, you can request access via SAFE
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Login accounts* and select the account which requires access to the package
 #. Click *New Package Group Request*
@@ -148,18 +146,18 @@ For some of these packages, such as VASP, you can request access via SAFE
 
 Your request will then be processed by the appropriate support team who will confirm your license with the approriate authority before enabling your access to the package. This can take several days but you will be advised once this has been done.
 
-Tier-2 Facilities: Accounts, passwords
---------------------------------------
+Cirrus Facility: Accounts, passwords
+------------------------------------
 
-How to request a system account on a Tier-2 facility
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How to request a system account on the Cirrus facility
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The minimum you require to create an account on one of the Tier-2 facilities is
+The minimum you require to create an account on Cirrus is
 a SAFE account and a *Project Code*. You should sign up for a SAFE 
 account as described above and Your project's PI or Project
 Manager should be able to supply you with the project code.
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Login accounts* and select *Request login account*
 #. Choose the project you want the account for in the "Choose Project
@@ -168,8 +166,7 @@ Manager should be able to supply you with the project code.
    available systems.
 #. Enter the username you would prefer to use on the system
    Every username must be unique, and you must create a new system
-   account with a unique username for each project you work on. (You
-   can use the same username across different Tier-2 facilities.)
+   account with a unique username for each project you work on.
 
 Now you have to wait for your PI or project manager to accept your
 request to register. When this has happened, the systems team are
@@ -181,7 +178,7 @@ How to reset a password on your machine account
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you still remember your current machine account password, you can
-simply log in to the appropriate Tier-2 facility as normal and then use the passwd command
+simply log in to Cirrus as normal and then use the passwd command
 
 ::
 
@@ -193,7 +190,7 @@ new password twice.
 If you have forgotten your current password, or it has expired, then you
 can ask for it to be reset:
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Login accounts* and select the account you need the
    new password for
@@ -205,15 +202,15 @@ Now your password will be changed. When this has been done,
 you will be informed by email; this means that you can come back to SAFE
 and pick up your new password.
 
-How can I pick up my password for a Tier-2 system account?
+How can I pick up my password for a Cirrus system account?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wait till you receive the email with your details. Then:
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
-#. Go to the Menu *Login accounts* and you will see your accounts on the
-   Tier-2 facilities listed. Click on the appropriate account.
+#. Go to the Menu *Login accounts* and you will see your Cirrus accounts
+   listed. Click on the appropriate account.
 #. This will display details of your account. Click *View Login Account
    Password* You will need to enter in your SAFE password and then click
    *view*, and you will see your password to the service machine
@@ -235,14 +232,14 @@ How to view user mailings
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | All mailings are archived and can be viewed in
-  `SAFE <https://www.archer.ac.uk/tier2/>`__.
+  `SAFE <https://www.archer.ac.uk/cirrus/>`__.
 | Please login to SAFE and go to the section *View user
   mailings*. Press the *View* button to access the mailings.
 
 How to get added to, or removed from the email mailing list?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Click on the Menu *Your details* click *Update personal details* find
    *Opt out of user emails* field and click it
@@ -261,7 +258,7 @@ Tracking Resource Usage
 How to check how much time and space are available to you
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__
 and Go to the Menu *Login accounts*, select
 the *username* which you wish to see details for. You will then see the
 information for this account. You will see the quotas for the disk space
@@ -276,7 +273,7 @@ different from from the current ones.
 How to review the use you have made of the service, or the activity of the service as a whole
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Login to SAFE <https://www.archer.ac.uk/tier2/>`__. Then:
+`Login to SAFE <https://www.archer.ac.uk/cirrus/>`__. Then:
 
 #. Go to the Menu *Service information* and select *Report Generator*
 #. Select the report you wish to run
@@ -289,5 +286,5 @@ How to review the use you have made of the service, or the activity of the servi
 
 If you are a PI or Project Manager, you will have access to additional
 reports to generate information on whole projects or groups as well as
-your own usage and the usage of the Tier-2 facilities as a whole.
+your own usage and the usage of the Cirrus facility as a whole.
 

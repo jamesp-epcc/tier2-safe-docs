@@ -1,7 +1,7 @@
-Tier-2 SAFE  Documentation
+Cirrus SAFE Documentation
 =========================
 
-This repository contains the documentation for the Tier-2 service management web interface (SAFE_ and is linked to a rendered version on ReadTheDocs.
+This repository contains the documentation for the Cirrus service management web interface (SAFE_ and is linked to a rendered version on ReadTheDocs.
 
 For a guide on the rst file format see `this <http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_ document.
 
@@ -11,8 +11,8 @@ Rendered Documentation
 ----------------------
 Two versions of the documentation are currently automatically built from this repository:
 
-* `Tier-2 SAFE Documentation (HTML) on ReadTheDocs <http://diracsafe.readthedocs.io/>`_
-* `Tier-2 SAFE Documentation (PDF) on ReadTheDocs <https://readthedocs.org/projects/diracsafe/downloads/pdf/latest/>`_
+* `Cirrus SAFE Documentation (HTML) on ReadTheDocs <http://diracsafe.readthedocs.io/>`_
+* `Cirrus SAFE Documentation (PDF) on ReadTheDocs <https://readthedocs.org/projects/diracsafe/downloads/pdf/latest/>`_
 
 How to Contribute
 -----------------

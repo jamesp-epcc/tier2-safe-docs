@@ -1,2 +1,2 @@
-.. image:: images/epccuoe_logo.png
+.. image:: images/cirrus-logo.png
    :align: right
